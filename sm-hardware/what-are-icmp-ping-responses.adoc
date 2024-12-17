@@ -1,0 +1,16 @@
+---
+permalink: sm-hardware/what-are-icmp-ping-responses.html 
+sidebar: sidebar 
+keywords: SANtricity, System Manager, E-Series, icmp, ping, responses, message, protocol, 
+summary: 'Internet控制消息协议(Internet Control Message Protocol、ICMP)是TCP/IP套件的协议之一。' 
+---
+= 什么是ICMP ping响应？
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Internet控制消息协议(Internet Control Message Protocol、ICMP)是TCP/IP套件的协议之一。
+
+ `ICMP echo request`和(`ICMP echo reply`消息通常称为 `ping`消息。 `Ping`是一种故障排除工具、供系统管理员用来手动测试网络设备之间的连接、以及测试网络延迟和数据包丢失。 `ping`命令会将发送 `ICMP echo request`到网络上的设备，设备会立即响应(`ICMP echo reply`。有时，公司的网络安全策略要求 (`ICMP echo reply`在所有设备上禁用)，以使未经授权的人员更难发现它们。 `ping`

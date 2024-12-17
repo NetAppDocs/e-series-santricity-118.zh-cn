@@ -1,0 +1,12 @@
+---
+permalink: um-admin/index.html 
+sidebar: sidebar 
+keywords: santricity, unified, manager 6 
+summary: SANtricity统一管理器6. 
+---
+= SANtricity统一管理器6.
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+

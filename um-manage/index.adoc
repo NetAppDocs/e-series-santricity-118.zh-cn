@@ -1,0 +1,12 @@
+---
+permalink: um-manage/index.html 
+sidebar: sidebar 
+keywords:  
+summary:  
+---
+= SANtricity统一管理器6.
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
