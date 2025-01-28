@@ -8751,4 +8751,7 @@
   <block id="bc864bcc140c5518082e93d37b396baf" category="sidebar">使用管理主机证书</block>
   <block id="0e695c0c9242624f235546e43dde2e16" category="sidebar">使用阵列证书</block>
   <block id="951d3fc54a28f9f46798897467d96a5b" category="sidebar">管理证书</block>
+  <block id="fdaf387b2cf2a5e0708730deae924c52" category="section-title">11.80.1R3中的新增功能</block>
+  <block id="a372f5d0e522484d2807c2713feb9e59" category="paragraph">此版本仅包含少量更改、没有任何新功能或限制。有关此版本中更改的详细信息、请参阅自述文件。</block>
+  <block id="cb495aee74d8e4c14850fb4a3882a508" category="section-title">11.80.1R2中的新增功能</block>
 </blocks>
