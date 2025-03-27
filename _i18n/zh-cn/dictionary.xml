@@ -78,12 +78,6 @@
   <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">通知文件提供有关 NetApp 软件中使用的第三方版权和许可证的信息。</block>
   <block id="cc1ba14f8dc9bd7ba20e2aa654cde10b" category="inline-link">E 系列 /EF 系列 SANtricity 操作系统注意事项</block>
   <block id="df9168fd1981b1464f7c0d38b2207c30" category="paragraph"><block ref="df9168fd1981b1464f7c0d38b2207c30" category="inline-link-rx"></block></block>
-  <block id="b56253bf92505bda20b38657c778bccf" category="doc">此处为页面标题</block>
-  <block id="5d9328ee3f628e51f1a4f871ccff7313" category="paragraph">使用此模板处理文章、主题、无论您将其称为什么。index.adoc文件没有正确的文章页面关键字、将其用作模板可能会在以后出现发生原因发布问题。</block>
-  <block id="26739de98ff2a207a5c145caf27c2508" category="admonition">请在初始发布之前删除此文件、因为即使此文件未链接到边栏、它也会被发布。创建几篇文章后、您可以将其用作入门。</block>
-  <block id="38b255c5af258b1f086fb7c9aa4f252c" category="paragraph">如果您的文章将位于内容子文件夹中、则需要对上面显示的表示法进行两项调整：</block>
-  <block id="df25e29acec650a07b41041946158355" category="list-text"><block ref="abc9d0bfc8d5688ddd4babf6a5402ee4" prefix="" category="inline-code"></block></block>
-  <block id="97df5ffadc97296dc727ffddf2d2e1fe" category="list-text"><block ref="ff695bd1637208b4929c7ae2085cd551" prefix="" category="inline-code"></block></block>
   <block id="c43223d63f6302ef46c969787e8032b1" category="summary">要访问System Manager用户界面、请将浏览器指向控制器的IP地址。设置向导可帮助您开始进行系统配置。</block>
   <block id="06960d6ada7a46af36237c9d1496b5d3" category="doc">访问System Manager</block>
   <block id="135b308ed83c53f1516b7c754566d1c4" category="list-title">开始之前</block>
@@ -116,16 +110,12 @@
   <block id="b5acbc2c6b5d85af5d4d043b52dba635" category="inline-link-macro">设置向导概述</block>
   <block id="856b3712e6d6f73102abcbede2417e3f" category="paragraph">有关设置向导的详细信息，请参阅<block ref="f84f54a512d8902574615e97b93f1fa8" category="inline-link-macro-rx"></block>。</block>
   <block id="cdee3f665be88669170bda11b2f06c93" category="summary">Unified Manager安装概述</block>
-  <block id="65747c74d7b2e455833a7211d404378f" category="doc">安装 Unified Manager</block>
-  <block id="34d9a59f7d7e5ba2b6d37af87522f26b" category="paragraph">Unified Manager随Web服务代理一起提供、Web服务代理是单独安装在主机系统上的RESTful API服务器、用于管理NetApp E系列存储系统。</block>
   <block id="cbdedeba7d21b6ec4e131a86b76662c6" category="paragraph">要安装Web服务代理和Unified Manager、请参见E系列和SANtricity 文档中心中的以下说明：</block>
   <block id="a18485577a4748889b9322afa1d6eadc" category="inline-link">查看安装和升级要求</block>
   <block id="192c70ae7442b1e297e8288370c5d9a7" category="list-text"><block ref="192c70ae7442b1e297e8288370c5d9a7" category="inline-link-rx"></block></block>
   <block id="16772c8f2d067bf8a0138a1b1b952b1d" category="inline-link">下载并安装 Web 服务代理文件</block>
   <block id="214875cbbc52587429f7cbcd2420fe1e" category="list-text"><block ref="214875cbbc52587429f7cbcd2420fe1e" category="inline-link-rx"></block></block>
   <block id="d424dbef08902607fe74ce66143ded85" category="summary">访问并登录到Unified Manager。</block>
-  <block id="935157885838ef2e13b906dc3cfa3504" category="doc">访问Unified Manager</block>
-  <block id="0fe8e078d723310c7a025dbb49b053a2" category="paragraph">安装 Web 服务代理后，您可以访问 Unified Manager 以在基于 Web 的界面中管理多个存储系统。</block>
   <block id="0a638be7984a916271be0d85fa354c61" category="admonition">有关支持的浏览器，请参见<block ref="0d80156806b92a254389d706e3039498" category="inline-link-macro-rx"></block>。</block>
   <block id="75ac65baa63f90887df8eeedf86752f4" category="list-text">打开浏览器并输入以下 URL ：</block>
   <block id="848952e64ae8b5ef373a4202f3a57872" category="paragraph"><block ref="3e736674396137d34a8397913ee98822" prefix="" category="inline-code"></block></block>
@@ -625,7 +615,6 @@
   <block id="8ed5fe0f29ca8f884678d6762e30d165" category="paragraph">基于融合以太网的 RDMA （ RoCE ）是一种网络协议，允许通过以太网远程直接内存访问（ RDMA ）。</block>
   <block id="9a10dfa4820362278c75541e0d1eed8b" category="summary">对于System Manager、热备用磁盘可充当RAID 1、RAID 5或RAID 6卷组中的备用驱动器。</block>
   <block id="276a13903d824739180cb574a8b6063a" category="doc">热备用驱动器概述</block>
-  <block id="e4fa5d6edf084bd88f0cdd23e75bb932" category="paragraph">对于System Manager、热备用磁盘可充当RAID 1、RAID 5或RAID 6卷组中的备用驱动器。</block>
   <block id="bb3d0b1d00371907893169044379dc18" category="paragraph">它们是功能完备的驱动器、不包含任何数据。如果卷组中的某个驱动器发生故障、控制器会自动将故障驱动器中的数据重新构建到分配为热备用驱动器的驱动器中。</block>
   <block id="44fc683d36bd75431aa319eb657eee3d" category="paragraph">热备用磁盘不专用于特定卷组。它们可用于存储阵列中的任何故障驱动器、只要热备用驱动器和驱动器共享以下属性：</block>
   <block id="4cb8bf730ded016e3d4d1c1557bceadb" category="list-text">容量相等(或热备用磁盘容量更大)</block>
@@ -1055,7 +1044,6 @@
   <block id="146edce75aee35fdc6c65c979d433d80" category="paragraph">无法实现抽盒丢失保护。</block>
   <block id="260143c2df7ae0ce4b9a6b4e5820e5bb" category="summary">如果更改了存储阵列的IP地址、则可能需要在SANtricity 统一管理器中更新全局阵列视图。</block>
   <block id="cc9d5e6a39247b7ae502a7f1e633c4f7" category="doc">配置管理端口后应执行什么操作？</block>
-  <block id="33be6721ee47ba737121b0b61fc7ccb1" category="paragraph">如果更改了存储阵列的IP地址、则可能需要在Unified Manager中更新全局阵列视图。</block>
   <block id="67b52d0dd0552f62756981b7d04e334a" category="paragraph">要在Unified Manager中更新全局阵列视图、请打开界面并转到菜单：Manage (管理)[Discover (发现)。</block>
   <block id="3f79a5cd8daf0ba8a2623f690e8ad45d" category="paragraph">如果您仍在使用SANtricity 存储管理器、请转到企业管理窗口(EMW)、其中必须删除并重新添加新的IP地址。</block>
   <block id="bbe66c4be17769c6d4513643761ffdc8" category="summary">随时修改或升级DHCP服务器、并且与当前存储阵列和要使用的存储阵列相关的DHCP信息已更改、请刷新此服务器。</block>
@@ -1174,8 +1162,6 @@
   <block id="974bdee2f58c358dff43f3629257cd84" category="paragraph">远程存储导入</block>
   <block id="42ae25231906c83927831e0ef7c317ac" category="list-text">断开连接</block>
   <block id="3412f4f9996db44d85e9a7ddb64f8fc2" category="summary">您可以导航主界面以访问System Manager功能和任务。</block>
-  <block id="42ff625aa5c914a15cc639fd05aa3bfb" category="doc">System Manager界面概述</block>
-  <block id="bb62a2f52038b073396f3df591dfc864" category="paragraph">System Manager是一个基于Web的界面、可用于在一个视图中管理存储阵列。</block>
   <block id="deec4ff19974f12ed781cb9a59064214" category="cell">区域</block>
   <block id="a274f4d4670213a9045ce258c6c56b80" category="paragraph">通知</block>
   <block id="9446a98ad14416153cc4d45ab8b531bf" category="paragraph">性能</block>
@@ -1280,7 +1266,6 @@
   <block id="68eaabb91b0d1c52be44217a24f27b91" category="paragraph">工作负载</block>
   <block id="ab699fec90fd6cda5e110bb5189e9178" category="paragraph">工作负载是指支持应用程序的存储对象。您可以为每个应用程序定义一个或多个工作负载或实例。对于某些应用程序、系统会将工作负载配置为包含具有类似底层卷特征的卷。这些卷特征会根据工作负载支持的应用程序类型进行优化。例如、如果您创建了一个支持Microsoft SQL Server应用程序的工作负载、然后为该工作负载创建了卷、则底层卷特征将进行优化以支持Microsoft SQL Server。</block>
   <block id="3d371728a27bfe9492e0557bfd5069d2" category="summary">如果未看到已连接的主机、则自动检测失败、主机连接不正确或当前未连接任何主机。</block>
-  <block id="e5455040d4a9ede58061022a5ec57985" category="doc">System Manager未检测到任何主机。我该怎么办？</block>
   <block id="bc48f74b04ee61dd83366633ad4bf79c" category="paragraph">完成设置后、您可以稍后配置主机。您可以按如下所示手动创建主机：</block>
   <block id="f7ff4c91fa7860bce0649b5e3d3793d8" category="list-text">您可以转到菜单：Storage[Hosts]手动创建主机并关联相应的主机端口标识符。手动创建的主机也会显示在*初始设置*向导中。</block>
   <block id="50f6912c5df4e3e02e724cdec96987cf" category="list-text">必须为目标和主机配置主机端口类型(例如、iSCSI或基于RoCE的NVMe)、并且在自动检测之前与存储建立的会话将起作用。</block>
@@ -1536,7 +1521,6 @@
   <block id="acbaf5ba0ae3bb62f5e0bcbdeb977446" category="list-text">单击*保存*以应用所做的更改。</block>
   <block id="7f29556c75106b05f3d2b4179dcc2406" category="summary">如果您在无法由SANtricity System Manager管理的旧存储阵列上创建了主卷、则可以使用System Manager在此阵列上创建二级卷。</block>
   <block id="87b4e06d5443a380cc83c83c3d590d35" category="doc">在原有系统上创建的主卷的完整镜像对</block>
-  <block id="abe482b981924f3c0e95f1bdc14f29dc" category="paragraph">如果您在无法由System Manager管理的旧存储阵列上创建了主卷、则可以使用System Manager在此阵列上创建二级卷。</block>
   <block id="380f85f6054e74968d72b39236e80732" category="paragraph">您可以在使用不同接口的原有阵列与可由System Manager管理的较新阵列之间执行异步镜像。</block>
   <block id="33560e79148fad52472bc34df24ac293" category="list-text">如果要在使用System Manager的两个存储阵列之间进行镜像、则可以跳过此任务、因为您已在镜像对创建序列中完成镜像对。</block>
   <block id="d680891c022a8b76135d7b350bcfef66" category="list-text">在远程存储阵列上执行此任务。</block>
@@ -2549,7 +2533,6 @@
   <block id="8e736fec560076a8a802b9a2abdd1d1c" category="list-text">单击*是*重置基于InfiniBand的iSER端口。</block>
   <block id="981aaa3b1d8f5d256493b92b6b493e0a" category="summary">您可以创建一个登录横幅、在用户在SANtricity 系统管理器中建立会话之前、该横幅将呈现给用户。横幅可以包括咨询通知和同意消息。</block>
   <block id="8efb09501bad8ce68b1a1bc93afb135d" category="doc">配置登录横幅</block>
-  <block id="69bfc5b49cdbb5ecfe1a3226439e05f5" category="paragraph">您可以创建一个登录横幅、在用户在System Manager中建立会话之前、该横幅将呈现给用户。横幅可以包括咨询通知和同意消息。</block>
   <block id="7335dfb2a6a5b54076e56c28f64c1b27" category="paragraph">创建横幅时、它会显示在对话框的登录屏幕之前。</block>
   <block id="715a220c50a620ae5a87b5d1e1719b4e" category="list-text">在常规部分下、选择*配置登录横幅*。</block>
   <block id="795b64a6f7aa721a8a5c6f7bcdb2da8b" category="paragraph">此时将打开配置登录横幅对话框。</block>
@@ -2814,7 +2797,6 @@
   <block id="12decb6d47cbe5ebea1f00fff603f92c" category="paragraph">此时将打开确认删除可信证书对话框。</block>
   <block id="3c625277723f7e35643a56ecccb51d80" category="summary">您可以从System Manager下载命令行界面(CLI)软件包。</block>
   <block id="b44398f4857f5ee9b5b3372c0d3a83ac" category="doc">下载命令行界面(CLI)</block>
-  <block id="934757b9623717972adcc349e85d6283" category="paragraph">您可以从System Manager下载命令行界面(CLI)软件包。</block>
   <block id="f0edcadd28eaa53b81b22a31b44b45b9" category="paragraph">CLI提供了一种基于文本的方法来配置和监控存储阵列。它通过https进行通信、并使用外部安装的管理软件包中提供的CLI语法。下载CLI不需要任何密钥。</block>
   <block id="75842716a65060950b20cba161cbac95" category="paragraph">要运行命令行界面命令的管理系统必须具有Java Runtime Environment (JRE) 8及更高版本。</block>
   <block id="bd5b00551ee618ada817137a1272291f" category="list-text">在*加载项*下、选择*命令行界面*。</block>
@@ -3012,7 +2994,6 @@
   <block id="5858c6a33ae2b9c44625e4fb469ecf4f" category="paragraph">记下文件的存储位置。</block>
   <block id="930bc48407edda5bbc85e2aa9968fb49" category="list-text">从IdP服务器导入服务提供商元数据文件。您可以直接导入文件、也可以手动输入文件中的控制器信息。</block>
   <block id="6ca00ca15079ef4d4e240986dacffa79" category="summary">访问管理是在SANtricity System Manager中建立用户身份验证的一种方法。</block>
-  <block id="09802636c4ae135257f67339b6132e62" category="paragraph">访问管理是在System Manager中建立用户身份验证的一种方法。</block>
   <block id="8fb2f6e415dce0ffc2a42ed7de73d08d" category="paragraph">配置和用户身份验证的工作原理如下：</block>
   <block id="70d4f4d0018e0331ccbe2f6327c363ec" category="paragraph">对于首次登录、系统会自动显示用户名<block ref="21232f297a57a5a743894a0e4a801fc3" prefix=" " category="inline-code"></block>、并且无法更改。<block ref="21232f297a57a5a743894a0e4a801fc3" prefix=" " category="inline-code"></block>用户可以完全访问系统中的所有功能。</block>
   <block id="0f8888851116618073d1ec0b2125cb99" category="list-text">管理员可在用户界面中导航到访问管理。存储阵列已预先配置为使用本地用户角色、这是RBAC (基于角色的访问控制)功能的实施。</block>
@@ -3098,7 +3079,6 @@
   <block id="b3c59a083fa7002928d60b67ebf87b8b" category="list-text">* NVMe子系统统计信息*-显示NVMe控制器及其队列的统计信息。NVMe控制器可在主机与存储阵列中的命名空间之间提供访问路径。您可以查看连接故障、重置和关闭等项的NVMe子系统统计信息。有关这些统计信息的详细信息、请单击*查看表标题的图例*。</block>
   <block id="7ea452b7c390442f715579b70cb8be2c" category="list-text">* RDMA接口统计信息*-提供RDMA接口上所有基于网络结构的NVMe端口的统计信息、其中包括与每个交换机端口关联的性能统计信息和链路错误信息。只有当基于网络结构的NVMe端口可用时、才会显示此选项卡。有关统计信息的详细信息、请单击*查看表标题的图例*。</block>
   <block id="e78959343eccc5753e5a6f69aa17e104" category="summary">对于外部密钥管理、您可以导入两种类型的证书、以便在存储阵列和密钥管理服务器之间进行身份验证、从而使这两个实体可以相互信任。</block>
-  <block id="6bb1fc83f2153c8e3dfddfa5b556e792" category="doc">如何知道需要将哪些证书上传到System Manager才能进行外部密钥管理？</block>
   <block id="21e61b7b89892f01884cffafc8c86a9c" category="paragraph">客户端证书可验证存储阵列的控制器、以便密钥管理服务器可以信任其密钥管理互操作性协议(Key Management Interoperability Protocol、KMIP)请求。要获取客户端证书、请使用System Manager为存储阵列完成CSR。然后、您可以将CSR上传到密钥管理服务器并从该服务器生成客户端证书。获得客户端证书后、将该文件复制到要访问System Manager的主机。</block>
   <block id="9a4b083823a7c4b7786c0328f4a16e2a" category="paragraph">密钥管理服务器证书用于验证密钥管理服务器、以便存储阵列可以信任其IP地址。从密钥管理服务器检索服务器证书文件、然后将该文件复制到要访问System Manager的主机。</block>
   <block id="caf53cf0a0510acd4055fb8da433569c" category="summary">在实施驱动器安全功能时、启用了安全保护的驱动器(FIPS或FDE)需要一个安全密钥才能进行数据访问。安全密钥是指这些类型的驱动器与存储阵列中的控制器之间共享的字符串。</block>
@@ -3154,7 +3134,6 @@
   <block id="ca5515b83c1d400bc93b280a83d19859" category="paragraph">文件名显示在对话框中。</block>
   <block id="1e4cb43cb642ff327628d52937282424" category="paragraph">这些文件将上传并进行验证。</block>
   <block id="ae8f19f0991a75dbac99ee6e45ba300b" category="summary">您可以在SANtricity 系统管理器中配置超时、以便在指定时间后断开用户的非活动会话。</block>
-  <block id="0d08d54101084156343832dde6b77679" category="paragraph">您可以在System Manager中配置超时、以便在指定时间后断开用户的非活动会话。</block>
   <block id="7e21334170926970f8d92b45e8391954" category="paragraph">默认情况下、System Manager的会话超时为30分钟。您可以调整该时间、也可以完全禁用会话超时。</block>
   <block id="e535d8be0b5cae9eeaf63966afda7bde" category="paragraph">如果使用阵列中嵌入的安全断言标记语言(SAML)功能配置访问管理、则当用户的SSO会话达到其最大限制时、可能会发生会话超时。可能会在System Manager会话超时之前发生这种情况。</block>
   <block id="5303e6808de2e1eb2cd0b535241f849f" category="list-text">在常规部分下、选择*启用/禁用会话超时*。</block>
@@ -3184,8 +3163,6 @@
   <block id="2ab0aa4e6f963bdda6156f57930e7a34" category="list-text">在System Manager中、找到并记录机箱序列号。您可以通过将鼠标悬停在支持中心磁贴上来查看此序列号。</block>
   <block id="d8ab4f4f4bd758e305ce24ae089739e7" category="list-text">在 System Manager 中，找到功能启用标识符。转到菜单：设置[系统]、然后向下滚动到*加载项*。查找*功能启用标识符*。记录功能启用标识符的编号。</block>
   <block id="1e892535381bacc3eae14862eb515b1a" category="list-text">找到并记录用于激活功能的代码。对于功能包、此代码将在执行转换的相应说明中提供。</block>
-  <block id="b7c76db9b2472e615129452598c32a70" category="inline-link">NetApp E系列系统文档中心</block>
-  <block id="19c1dae7ed1abf9eb3b6c5146df9b1d5" category="paragraph">可从获取NetApp说明<block ref="da76044833cc021823434c8291982304" category="inline-link-rx"></block>。</block>
   <block id="ead7d7ce373cd886b6b7a1a60db53284" category="paragraph">对于高级功能、您可以从支持站点访问激活代码、如下所示：</block>
   <block id="e7626dadbaccf1c6de0466c8e9271bce" category="list-text">登录到<block ref="9a6f401ca1e7e89d8a0c29fb0cbe81b7" category="inline-link-rx"></block>。</block>
   <block id="78e85ed9fdf2fdf631f1825f112c9596" category="list-text">请访问您的产品对应的*软件许可证*。</block>
@@ -3278,7 +3255,6 @@
   <block id="7ec1b2a1590a2956cdb73e6afbd94583" category="list-text"><block ref="7ec1b2a1590a2956cdb73e6afbd94583" category="inline-link-macro-rx"></block></block>
   <block id="b36030520bf6fb6f82f2952d906f0dd4" category="summary">您可以为System Manager配置一些常规阵列设置和附加功能。</block>
   <block id="c7f8006a54ae70968da2a44d61c94f4c" category="doc">设置概述</block>
-  <block id="2161120ac2f277c69a937d29896bb757" category="paragraph">您可以为System Manager配置一些常规阵列设置和附加功能。</block>
   <block id="f01afbc659c3b1d4c71bba9b1a9ce3ea" category="section-title">我可以配置哪些设置？</block>
   <block id="92a98c57d8dff609da2fceddaeac27a4" category="paragraph">阵列设置包括：</block>
   <block id="9f6081850e27326c653ce13711fd1f40" category="list-text"><block ref="9f6081850e27326c653ce13711fd1f40" category="inline-link-macro-rx"></block></block>
@@ -3296,7 +3272,6 @@
   <block id="1b1b74bee9fa2e2dee943c4a7cd28f29" category="list-text"><block ref="1b1b74bee9fa2e2dee943c4a7cd28f29" category="inline-link-macro-rx"></block></block>
   <block id="a043af3af79069cc80dd494df5e85324" category="list-text"><block ref="a043af3af79069cc80dd494df5e85324" category="inline-link-macro-rx"></block></block>
   <block id="4bdba401227da38e05e805640bc07392" category="summary">在存储阵列上强制实施的RBAC (基于角色的访问控制)功能包括预定义的用户配置文件、其中一个或多个角色映射到这些配置文件。每个角色都具有访问SANtricity System Manager中任务的权限。</block>
-  <block id="2f9b4deb9315aed582af1e2cad742214" category="paragraph">在存储阵列上强制实施的RBAC (基于角色的访问控制)功能包括预定义的用户配置文件、其中一个或多个角色映射到这些配置文件。每个角色都具有访问System Manager中任务的权限。</block>
   <block id="4af88e993472ad0efbe148c3d71082f9" category="paragraph">用户配置文件和映射的角色可从任一System Manager的用户界面中的菜单：设置[访问管理&gt;本地用户角色]进行访问。</block>
   <block id="536f38e388f0e686eaac049b4bfaf373" category="paragraph">这些角色可为用户提供对任务的访问权限、如下所示：</block>
   <block id="730a090cd84a0ce605e346fc4d569c15" category="paragraph">如果用户没有执行某个任务的权限、则该任务将灰显或不会显示在用户界面中。</block>
@@ -3380,7 +3355,6 @@
   <block id="a0b605eab979098bef08ed0421dedcfd" category="paragraph">现在、驱动器安全性可通过存储阵列在内部进行管理。</block>
   <block id="c73b1b4d687800d408f419f0f0df3f39" category="summary">如果未启用网络时间协议(NTP)、则可以手动设置控制器上的时钟、以便与管理客户端(用于运行访问SANtricity System Manager的浏览器的系统)同步。</block>
   <block id="98ab351cb9c5d5c191ae7f2acc9960e7" category="doc">同步存储阵列时钟</block>
-  <block id="3a7965dd150006ce04e7d23d6db0b1a0" category="paragraph">如果未启用网络时间协议(NTP)、则可以手动设置控制器上的时钟、以便与管理客户端(用于运行访问System Manager的浏览器的系统)同步。</block>
   <block id="5686e4a1839427d3f101f1242524feeb" category="paragraph">同步可确保事件日志中的事件时间戳与写入主机日志文件的时间戳匹配。在同步过程中、控制器仍保持可用和正常运行。</block>
   <block id="fdcb6fda8360a631ef2730c06e89ae28" category="paragraph">如果在System Manager中启用了NTP、请勿使用此选项同步时钟。相反、NTP会使用SNTP (简单网络时间协议)自动将时钟与外部主机同步。</block>
   <block id="187a2d7806202a5a575270922290f2a4" category="paragraph">同步后、您可能会注意到性能统计信息丢失或偏差、计划受到影响(ASUP、快照等)、日志数据中的时间戳发生偏差。使用NTP可避免此问题。</block>
@@ -6948,7 +6922,6 @@
   <block id="bb41f61d9b53608a25e359fed048aa2f" category="section-title">用于创建快照卷的工作流</block>
   <block id="12da876cc8c4d30e71fe2566936ae1bc" category="image-alt">Sam1130 FLW快照可创建ss卷</block>
   <block id="11922e324623e8ee6795b38fc97026aa" category="summary">在SANtricity 系统管理器中、您可以按照以下步骤创建卷。</block>
-  <block id="26eaac99fa3741d6e7305e93cad51def" category="paragraph">在System Manager中、您可以按照以下步骤创建卷。</block>
   <block id="8774cdb9b7bf373fd360b697dfc73074" category="image-alt">创建sam1130 FLW卷</block>
   <block id="409fb9492f0447dad26874838dcc618f" category="summary">您可以选择立即激活升级文件、也可以等到更方便的时间再激活。</block>
   <block id="c29d95eed67d720dbe28e877b0aba0d3" category="doc">激活控制器软件和固件</block>
@@ -7562,13 +7535,11 @@
   <block id="fb7e65669e5874b9e0b75fbd623f7da4" category="paragraph">在驱动器固件的联机升级期间、如果在快速重建过程中发生卷传输、系统将对传输的卷启动完全重建。此操作可能需要相当长的时间。实际完整重建时间取决于多个因素、包括重建操作期间发生的I/O活动量、卷组中的驱动器数量、重建优先级设置以及驱动器性能。</block>
   <block id="53f6e38bfb8737cd78f3afe40356d59e" category="summary">在SANtricity 系统管理器中、您可以按照以下步骤配置AutoSupport 功能。</block>
   <block id="abcd71b1bdd83d175115a06e7bd6993c" category="doc">AutoSupport 功能的工作流</block>
-  <block id="fa1ad6ca18787ce10b28e8361e9f1ad1" category="paragraph">在System Manager中、您可以按照以下步骤配置AutoSupport 功能。</block>
   <block id="3bd2ffe663bb769bb020a0e8f968a73a" category="image-alt">sam1130 FLW支持asup设置</block>
   <block id="0053cb3da5cd9357da42c9285388e7c5" category="summary">在SANtricity 系统管理器中、您可以按照以下步骤升级控制器软件和固件。</block>
   <block id="638e87c9a312fe766009341e23b4dbd4" category="doc">控制器软件和固件升级工作流</block>
   <block id="361638f3fa2ab614b999cb442c3951ea" category="image-alt">sam1130 FLW固件升级</block>
   <block id="c5140ae7574b7c90722120fd0af36a50" category="summary">您必须使用管理员密码配置SANtricity Unified Manager、以防止未经授权的访问。</block>
-  <block id="eeba445787fc95d90b8233e19693857b" category="paragraph">您必须为Unified Manager配置管理员密码、以防止其遭受未经授权的访问。</block>
   <block id="1115a6e562080201b09b1af0e9c4f13a" category="section-title">管理员密码和用户配置文件</block>
   <block id="95bd4ed85be27a910b2d6e09c064718e" category="paragraph">首次启动Unified Manager时、系统会提示您设置管理员密码。具有管理员密码的任何用户都可以对存储阵列进行配置更改。</block>
   <block id="afcc47cd8fe4141e53312cbc86c96881" category="paragraph">除了管理员密码之外、Unified Manager界面还包括预先配置的用户配置文件、其中包含一个或多个映射到这些配置文件的角色。有关详细信息，请参见 <block ref="5c922583ae248325086bab7f2768b014" category="inline-link-macro-rx"></block>。</block>
@@ -7581,7 +7552,6 @@
   <block id="5135af888623806f0ba890173150ccd3" category="paragraph">出于安全原因、您只能在软件进入"锁定"状态之前尝试输入五次密码。在此状态下、软件将拒绝后续的密码尝试。您必须等待10分钟才能重置为"正常"状态、然后才能再次尝试输入密码。</block>
   <block id="2f8dca464fb973f09d9647570e912987" category="paragraph">您可以调整会话超时、也可以完全禁用会话超时。有关详细信息，请参见 <block ref="491ec1fb8cfb51b8b30aff1b660d5fdc" category="inline-link-macro-rx"></block>。</block>
   <block id="c905ab540cd89c88f522731c7c764a87" category="summary">您可以更改用于访问SANtricity Unified Manager的管理员密码。</block>
-  <block id="f33a46d17adbb22063054d82821f25b7" category="paragraph">您可以更改用于访问Unified Manager的管理员密码。</block>
   <block id="bd6118611ef18d79d9e7eedceea12308" category="list-text">您必须知道当前的管理员密码。</block>
   <block id="f8d9bf7bcc41775eb6d5f8fcaaea7cd5" category="list-text">设置密码时、不会从密码中删除尾随空格。如果密码中包含空格、请小心操作。</block>
   <block id="afc11caec8df4bb27d2d12eb2cb8a68e" category="list-text">从表中选择*管理员*用户。</block>
@@ -7590,7 +7560,6 @@
   <block id="4210c9f98a5dc1ea45fd7d0d2dee8ef2" category="list-text">输入本地管理员密码以确认此操作、然后单击*更改*。</block>
   <block id="8f2804311a0084d47f6c63f97e6d6ced" category="summary">您可以在SANtricity Unified Manager中更新用于查看和访问存储阵列的密码。</block>
   <block id="2aebbeed1009439a37c2d8cc2d3c3b8c" category="doc">更改存储阵列密码</block>
-  <block id="56384fe256eff96c1a56aee05a2e3fbb" category="paragraph">您可以在Unified Manager中更新用于查看和访问存储阵列的密码。</block>
   <block id="3e06700262909cb379674ee849478971" category="list-text">您必须使用包含存储管理员权限的用户配置文件登录。</block>
   <block id="6200b57bba4734c357cfd4a38fa16a12" category="list-text">您必须知道在System Manager中设置的存储阵列的当前密码。</block>
   <block id="5d0efaa3695cc3970597a53c9f03654a" category="paragraph">在此任务中、您可以输入存储阵列的当前密码、以便在Unified Manager中访问该密码。如果在System Manager中更改了阵列密码、并且现在还必须在Unified Manager中更改该密码、则可能需要执行此操作。</block>
@@ -7599,7 +7568,6 @@
   <block id="b6deb366a7ea029beae2c06ae5edbee7" category="list-text">输入每个存储阵列的密码、然后单击*保存*。</block>
   <block id="1cf9153cf0b1bfe4b703e41b4509763e" category="summary">SANtricity统一管理器6.</block>
   <block id="a1f94f83462c2ceebb1aef9832402037" category="summary">您可以为SANtricity Unified Manager配置超时、以便在指定时间后断开用户的非活动会话。</block>
-  <block id="8ad7e04aaecd791134a5e260a985aa04" category="paragraph">您可以为Unified Manager配置超时、以便用户非活动会话在指定时间后断开连接。</block>
   <block id="90bc078771cba1fa174144730e743ae1" category="paragraph">默认情况下、Unified Manager的会话超时为30分钟。您可以调整该时间、也可以完全禁用会话超时。</block>
   <block id="d1b1ed9561d588b34b9b60028f6966b9" category="admonition">如果使用阵列中嵌入的安全断言标记语言(SAML)功能配置访问管理、则当用户的SSO会话达到其最大限制时、可能会发生会话超时。可能会在System Manager会话超时之前发生这种情况。</block>
   <block id="5cdc5e794d92075b65fddab1a4df3b77" category="list-text">从菜单栏中、选择用户登录名旁边的下拉箭头。</block>
@@ -7607,7 +7575,6 @@
   <block id="b4be680c3d2ca05c238f23cda8f483c5" category="paragraph">您可以设置的最小超时时间为15分钟。</block>
   <block id="e9e6b18af35988c38b404cb9db9dab71" category="paragraph">要禁用会话超时、请清除*设置时间长度...*复选框。</block>
   <block id="1b89afe60c3c3728ebb581ee0aac3506" category="summary">Unified Manager是一个基于Web的界面、可用于在一个视图中管理多个存储阵列。</block>
-  <block id="4dce3cdc79e2e44c19e0286c8128e182" category="doc">Unified Manager界面概述</block>
   <block id="8f8d2783d036ec8dbe4b6b9c1d0fed0d" category="section-title">主页</block>
   <block id="edab0a6bffc866b3b3e060784eab4d6a" category="paragraph">登录到Unified Manager后、主页将打开*管理-全部*。在此页面中、您可以滚动浏览网络中发现的存储阵列列表、查看其状态、并对单个阵列或一组阵列执行操作。</block>
   <block id="bdb2999f28589aad2b040c21930c86dc" category="section-title">导航边栏</block>
@@ -7628,10 +7595,8 @@
   <block id="dab914db541126686bbe7301f26a031b" category="list-text"><block ref="dab914db541126686bbe7301f26a031b" category="inline-link-macro-rx"></block></block>
   <block id="2e427df5c1b5f1934e9cdd88bb2c3cb2" category="summary">SANtricity 统一管理器可从多种类型的浏览器进行访问。</block>
   <block id="6d84e3718084e0db779da4ff8791a2f2" category="doc">支持的浏览器</block>
-  <block id="6d5a07028844be42740ba8ef0ebc030a" category="paragraph">Unified Manager可从多种类型的浏览器进行访问。</block>
   <block id="24bfb1beabc66d9a6a219a39706480f0" category="paragraph">Web服务代理必须已安装并可供浏览器使用。</block>
   <block id="e1b68ee4aa4066c82dae8c2b6a7bd2c7" category="summary">了解访问管理术语如何适用于SANtricity Unified Manager。</block>
-  <block id="64aa268315e67fd45e17bcf91ff30bab" category="paragraph">了解访问管理术语如何应用于Unified Manager。</block>
   <block id="86492ff57bfb48a1cfe6863d646e4e37" category="paragraph">基于角色的访问控制(Role-Based Access Control、RBAC)是一种根据各个用户的角色来管理对计算机或网络资源的访问的方法。Unified Manager包含预定义角色。</block>
   <block id="8fced73c31ae4d255ba5500bd98c8d76" category="paragraph">安全断言标记语言(SAML)是一种基于XML的标准、用于在两个实体之间进行身份验证和授权。SAML支持多因素身份验证、在这种身份验证中、用户必须提供两个或更多项来证明其身份(例如密码和指纹)。存储阵列的嵌入式SAML功能在身份断言、身份验证和授权方面符合SAML2.0标准。</block>
   <block id="e536634a787591dd23dbc618cd207ba6" category="paragraph">Web服务代理</block>
@@ -7643,7 +7608,6 @@
   <block id="d0537632c3c29dcf80a07258a5f4ccc7" category="list-text">建立服务器连接后、管理员会将用户组映射到本地用户角色。这些角色是预定义的、无法修改。</block>
   <block id="d244d933aee9dd35323eb0cf53551ae4" category="list-text">管理员测试LDAP服务器与Web服务代理之间的连接。</block>
   <block id="061e64cad01b4cd81351026b626d0e7e" category="summary">管理员可以使用SANtricity 统一管理器中强制实施的RBAC (基于角色的访问控制)功能。这些功能称为本地用户角色。</block>
-  <block id="ba501c87876b2abc6f333f2281c9b0d8" category="paragraph">管理员可以使用Unified Manager中强制实施的RBAC (基于角色的访问控制)功能。这些功能称为"本地用户角色"。</block>
   <block id="8605565fad22723762c246b949a49067" category="paragraph">本地用户角色已在系统中预先配置。要使用本地用户角色进行身份验证、管理员可以执行以下操作：</block>
   <block id="2d0730c519bced2c7da242ac46c546fa" category="list-text">管理员使用包含"安全管理员"权限的用户配置文件登录到Unified Manager。</block>
   <block id="308792f40a61d176822c0c11a84aa062" category="list-text">管理员配置与身份提供程序(Identity Provider、IdP)的通信。IdP是一种外部系统、用于向用户请求凭据并确定用户是否已成功通过身份验证。要配置与存储阵列的通信、管理员需要从Idp系统下载Idp元数据文件、然后使用Unified Manager将该文件上传到存储阵列。</block>
@@ -7653,7 +7617,6 @@
   <block id="eae9067e764c22587680b3bd3f81d25b" category="paragraph">启用SAML后、用户无法从原有Storage Manager界面发现或管理该阵列的存储。</block>
   <block id="34919a9493354af06c60b6a7efe26f66" category="summary">要为访问管理配置身份验证、请在LDAP服务器与运行适用于SANtricity Unified Manager的Web服务代理的主机之间建立通信。然后、将LDAP用户组映射到本地用户角色。</block>
   <block id="b828924e6cb61c82f7d84db873261628" category="doc">添加目录服务器</block>
-  <block id="4414343c3416e84cd36e3cad4675e6cf" category="paragraph">要为访问管理配置身份验证、请在LDAP服务器与运行适用于Unified Manager的Web服务代理的主机之间建立通信。然后、将LDAP用户组映射到本地用户角色。</block>
   <block id="b53df6d7d04b2e16a801c386e5491e43" category="paragraph">添加目录服务器分为两步。首先输入域名和URL。如果服务器使用安全协议、则如果CA证书由非标准签名颁发机构签名、则还必须上传此CA证书以进行身份验证。如果您拥有绑定帐户的凭据、则还可以输入您的用户帐户名称和密码。接下来、将LDAP服务器的用户组映射到本地用户角色。</block>
   <block id="062bd96c08dfa22823465cc5da09e38b" category="list-text">选择*访问管理*。</block>
   <block id="983f7148d2276d9ec50cb88b8a839197" category="list-text">从*目录服务*选项卡中、选择*添加目录服务器*。</block>
@@ -7731,7 +7694,6 @@
   <block id="4b09b699877612f901bc1067fb675519" category="paragraph">域名字段为只读。</block>
   <block id="075d83a0abd972ce69ef61db38da29be" category="list-text">从Idp服务器中、导入服务提供商元数据文件。您可以直接导入文件、也可以手动输入控制器信息。</block>
   <block id="5d5b10ce79f5c0dc539334629d62d864" category="summary">使用访问管理在SANtricity Unified Manager中建立用户身份验证。</block>
-  <block id="44e7f9b14d94f37d603139d60643ff98" category="paragraph">使用访问管理在Unified Manager中建立用户身份验证。</block>
   <block id="f40760940eef8069f0bcacc614829c32" category="paragraph">访问管理配置的工作原理如下：</block>
   <block id="2ff565b6d3ae8906f3c4fac50daf31d4" category="paragraph">对于首次登录、系统会自动显示用户名<block ref="21232f297a57a5a743894a0e4a801fc3" prefix=" " category="inline-code"></block>、并且无法更改。<block ref="21232f297a57a5a743894a0e4a801fc3" prefix=" " category="inline-code"></block>用户可以完全访问系统中的所有功能。必须在首次登录时设置密码。</block>
   <block id="d402cdda742b7a0b61f66dd16fa4634e" category="list-text">管理员可在用户界面中导航到访问管理、其中包括预配置的本地用户角色。这些角色是对RBAC (基于角色的访问控制)功能的实施。</block>
@@ -7752,7 +7714,6 @@
   <block id="4e659f859cf08d5887aa434a7f8bd662" category="paragraph">在Unified Manager会话期间、当您尝试访问没有CA签名证书的控制器时、可能会看到其他安全消息。在这种情况下、您可以永久信任自签名证书、也可以为控制器导入CA签名证书、以便Web服务代理服务器可以对来自这些控制器的传入客户端请求进行身份验证。</block>
   <block id="8e2a365bae244df40d20169523b4c250" category="summary">如有必要、您可以导入存储阵列的证书、以便这些证书可以在托管SANtricity Unified Manager的系统中进行身份验证。证书可以由证书颁发机构(CA)签名、也可以是自签名证书。</block>
   <block id="d308d3a2d458b8934e1a336510dd05c0" category="doc">导入阵列的证书</block>
-  <block id="e6170c93eb142fb01923e9f9b0ef39f7" category="paragraph">如有必要、您可以导入存储阵列的证书、以便这些阵列可以在托管Unified Manager的系统中进行身份验证。证书可以由证书颁发机构(CA)签名、也可以是自签名证书。</block>
   <block id="35bc59ae8725a73f71e22d5b7e2eda45" category="list-text">如果要导入可信证书、则必须使用System Manager为存储阵列控制器导入这些证书。</block>
   <block id="2e55526b44721ea9359f246eaaf629e3" category="paragraph">此页面显示为存储阵列报告的所有证书。</block>
   <block id="2f3bb55cd5666e46843ed94b99f1cc9c" category="list-text">选择菜单：Import[证书]以导入CA证书、选择菜单：Import[自签名存储阵列证书]以导入自签名证书。</block>
@@ -7760,7 +7721,6 @@
   <block id="3ebb85ccf545d068b56aa6242e5d9739" category="list-text">在对话框中、选择证书、然后单击*导入*。</block>
   <block id="bb17519c0e047380a70a0cf2fe58a6f2" category="paragraph">已上传并验证此证书。</block>
   <block id="8a26f9c1af451d8775363a647445ae49" category="summary">访问管理是一种在SANtricity Unified Manager中配置用户身份验证的方法。</block>
-  <block id="d1cc45589c0084f17d53b1764541acde" category="paragraph">访问管理是一种在Unified Manager中配置用户身份验证的方法。</block>
   <block id="41315c44be734de1ba40d7ac966572b8" category="paragraph">可以使用以下身份验证方法：</block>
   <block id="d49c4941abd4cbf48ddd6db7bbbb59b9" category="list-text">*本地用户角色*—身份验证通过RBAC (基于角色的访问控制)功能进行管理。本地用户角色包括预定义的用户配置文件以及具有特定访问权限的角色。</block>
   <block id="aad50f908f47b2bf0ef42647f8e94a63" category="list-text">*目录服务*—身份验证通过LDAP (轻型目录访问协议)服务器和目录服务(例如Microsoft的Active Directory)进行管理。</block>
@@ -7780,7 +7740,6 @@
   <block id="b744a434fdacfde74eb6273b780f3b83" category="list-text"><block ref="b744a434fdacfde74eb6273b780f3b83" category="inline-link-macro-rx"></block></block>
   <block id="78620fb7eda6cb105045681ab3541f53" category="list-text"><block ref="78620fb7eda6cb105045681ab3541f53" category="inline-link-macro-rx"></block></block>
   <block id="7f5fc7f5a6cfd2d629daa43027091634" category="summary">RBAC (基于角色的访问控制)功能包括已映射一个或多个角色的预定义用户。每个角色都具有访问SANtricity Unified Manager中任务的权限。</block>
-  <block id="b6d27003498a8efabd89c3632f305a38" category="paragraph">RBAC (基于角色的访问控制)功能包括已映射一个或多个角色的预定义用户。每个角色都具有访问Unified Manager中任务的权限。</block>
   <block id="ff3d7efd683a99e8ca518db8c7f93585" category="paragraph">如果用户没有对某个功能的权限、则该功能不可供选择或不会显示在用户界面中。</block>
   <block id="5f6ad552ed5fab1f4cbc8e121147c715" category="summary">要中断目录服务器与Web服务代理之间的连接、您可以从"访问管理"页面中删除服务器信息。如果您配置了新服务器、然后要删除旧服务器、则可能需要执行此任务。</block>
   <block id="7ed1c23fd5825fcffa42b8277d75a176" category="summary">您可以将管理证书还原到原始出厂自签名状态。</block>
@@ -7791,7 +7750,6 @@
   <block id="0d976dc17b4640ed74e2e82306ff7154" category="paragraph">系统将恢复为使用服务器中的自签名证书。因此、系统会提示用户为其会话手动接受自签名证书。</block>
   <block id="6537b14ab86690459051b15913eed344" category="summary">如果存储阵列尝试建立与SANtricity Unified Manager的安全连接、但此连接无法确认为安全连接、则会发生不可信证书。</block>
   <block id="57978b55e3a3b1f8e477379b56230f8e" category="doc">解析不可信的证书</block>
-  <block id="06ae56054017bbf48392ef1bea4dfe7b" category="paragraph">如果存储阵列尝试建立与Unified Manager的安全连接、但此连接无法确认为安全连接、则会发生不可信证书。</block>
   <block id="235d7e3807db91d7961342f6d13f3e3b" category="paragraph">在证书页面中、您可以通过从存储阵列导入自签名证书或导入可信第三方颁发的证书颁发机构(CA)证书来解析不可信的证书。</block>
   <block id="af79150969b4d48bc866f35ea2543694" category="list-text">您必须使用具有安全管理员权限的用户配置文件登录。</block>
   <block id="951e2883c6a23f655f16e49f82ab2244" category="list-text">如果您计划导入CA签名的证书：</block>
@@ -7838,7 +7796,6 @@
   <block id="6577f92f6d3e817e406cf5c8fc28fb74" category="doc">查看证书</block>
   <block id="9c6c2f35f874859a647563b0d99e7685" category="list-text">要查看有关证书的详细信息、请选择其行、选择行末尾的省略号、然后单击*查看*或*导出*。</block>
   <block id="b9cba881bdd58bf9df0da788dc1b2941" category="summary">在本地用户角色选项卡中、您可以查看用户与默认角色的映射。这些映射是在适用于SANtricity Unified Manager的Web服务代理中强制实施的RBAC (基于角色的访问控制)的一部分。</block>
-  <block id="a0363d5fd0c0b077d52f4784dbe2bec9" category="paragraph">在本地用户角色选项卡中、您可以查看用户与默认角色的映射。这些映射是Unified Manager Web服务代理中强制实施的RBAC (基于角色的访问控制)的一部分。</block>
   <block id="73ac0b03481ca2066ed032fc9c2875c2" category="paragraph">无法更改用户和映射。只能修改密码。</block>
   <block id="c5c570ddef1c2b01ec882c74deba2a55" category="paragraph">下表显示了这些用户：</block>
   <block id="2bf59aca4b70fb1e276f68737ab54888" category="list-text">*管理员*—超级管理员、有权访问系统中的所有功能。此用户包括所有角色。</block>
@@ -7889,7 +7846,6 @@
   <block id="174e5cd39870cac20fc484ce97d2954f" category="paragraph">此操作的状态将显示在对话框中。</block>
   <block id="7671664858be05fdbfc7ebd9e330e072" category="summary">Unified Manager必须先发现要在组织网络中管理的存储阵列、然后才能显示和管理存储资源。您可以发现多个阵列、也可以发现一个阵列。</block>
   <block id="072bbf879ecafdb82ab2e4349cfd42b5" category="doc">发现阵列的注意事项</block>
-  <block id="9b4ac681029804460c9ba68ebc344819" category="paragraph">Unified Manager必须先发现要在组织网络中管理的存储阵列、然后才能显示和管理存储资源。您可以发现多个阵列、也可以发现一个阵列。</block>
   <block id="d316240204769eb0f31faba6852de25e" category="section-title">发现多个存储阵列</block>
   <block id="c1180fcf0651dd21fc1fde9763788bc7" category="paragraph">如果您选择发现多个阵列、请输入一个网络IP地址范围、然后Unified Manager将尝试单独连接到该范围中的每个IP地址。任何已成功访问的存储阵列都会显示在"Discover "页面上、并且可能会添加到您的管理域中。</block>
   <block id="429de7c9197491bab6d29f7b2cb5f688" category="section-title">发现单个存储阵列</block>
@@ -8151,7 +8107,6 @@
   <block id="d856dd7f06174b4ea43d1a3d8b97ad9f" category="paragraph">现在、目标存储阵列配置了与源阵列相同的系统设置。</block>
   <block id="bcd2040d9a3029641d27c34b32354648" category="summary">如果要配置和管理存储阵列、请选择一个或多个存储阵列并使用启动选项打开SANtricity 系统管理器。</block>
   <block id="c95d46d93ad992222d3d7452ede68ef3" category="doc">访问System Manager的注意事项</block>
-  <block id="625735d117f75d6e7141cef378902859" category="paragraph">如果要配置和管理存储阵列、请选择一个或多个存储阵列并使用Launch选项打开System Manager。</block>
   <block id="e2de2b40f2bec701c57fd2fbde183531" category="paragraph">System Manager是控制器上的嵌入式应用程序、它通过以太网管理端口连接到网络。它包括所有基于阵列的功能。</block>
   <block id="97c771fec542c151941358c9507e1818" category="paragraph">要访问System Manager、您必须具备：</block>
   <block id="d2bf6cf91aae10964c05d43904777ddb" category="inline-link-macro">E 系列硬件概述</block>
@@ -8160,7 +8115,6 @@
   <block id="cc4ea9328a87a53029aea9916fc48ae4" category="image-alt">single2800</block>
   <block id="bd5c1b4a761c6f196221f804787289cb" category="summary">如果要执行管理操作、您可以使用启动选项为一个或多个存储阵列打开基于浏览器的SANtricity 系统管理器。</block>
   <block id="c911e68fc2d0d4330e7c34bd2941a90f" category="doc">管理单个存储阵列</block>
-  <block id="8911f9d4a79da70f2e2f26cc33ada8aa" category="paragraph">如果要执行管理操作、您可以使用Launch选项为一个或多个存储阵列打开基于浏览器的System Manager。</block>
   <block id="dc81e35ba70439bdea73c9ca731dedc7" category="list-text">从管理页面中、选择要管理的一个或多个存储阵列。</block>
   <block id="3eab8ee0f45fd9624973c05ec4303d5a" category="list-text">单击 * 启动 * 。</block>
   <block id="a269bd71b079afa7d2ec900d0f51428d" category="paragraph">系统将打开一个新窗口并显示System Manager登录页面。</block>
@@ -8299,7 +8253,6 @@
   <block id="b7d5630f68b2ae105a1892c1784263e4" category="paragraph">如果任何阵列未通过运行状况检查，您可以跳过该特定阵列并继续对其他阵列进行升级，也可以停止整个过程并对未通过的阵列进行故障排除。</block>
   <block id="d18c8b00e80b505406982d1c60493e63" category="summary">如果您不想再从SANtricity 统一管理器管理一个或多个存储阵列、则可以将其删除。</block>
   <block id="bc54c8923d2e900bc8b88d98dcd843d0" category="doc">从SANtricity 统一管理器中删除存储阵列</block>
-  <block id="0c9f801d60084ecd96df66d961171ed0" category="paragraph">如果您不想再从Unified Manager管理一个或多个存储阵列、可以将其删除。</block>
   <block id="46da89f7644863b59a53669234ecf705" category="paragraph">您无法访问所删除的任何存储阵列。但是、您可以通过将浏览器直接指向已删除的任何存储阵列的IP地址或主机名来建立与此阵列的连接。</block>
   <block id="928414d532f3a0bd88fe01efa33e49cc" category="paragraph">删除存储阵列不会以任何方式影响存储阵列或其数据。如果意外删除了存储阵列、则可以重新添加该存储阵列。</block>
   <block id="c0906399540cc4c4cd2789192cf8a8b0" category="list-text">选择*管理*页面。</block>
@@ -8407,7 +8360,6 @@
   <block id="e1cfa79dbec62347a6be30a50cfa9692" category="doc">在创建镜像对之前、我需要了解哪些信息？</block>
   <block id="4fe5208fe8ba8110b56b8acc0c96d17e" category="summary">导入设置功能是一个批处理操作、可将配置从一个存储阵列加载到多个存储阵列。在此操作期间导入的设置取决于在SANtricity 系统管理器中配置源存储阵列的方式。</block>
   <block id="d77d1605f41e6be3f550ae05cfaca17d" category="doc">将导入哪些设置？</block>
-  <block id="c7f22d49f002f26198a719f2496c2e98" category="paragraph">导入设置功能是一个批处理操作、可将配置从一个存储阵列加载到多个存储阵列。在此操作期间导入的设置取决于源存储阵列在System Manager中的配置方式。</block>
   <block id="eb66762bbeb3f99c598499dad7ab6419" category="paragraph">可以将以下设置导入到多个存储阵列：</block>
   <block id="25e8a6fd63ed997760d824ab39cd4591" category="list-text">*电子邮件警报*-设置包括邮件服务器地址和警报收件人的电子邮件地址。</block>
   <block id="6dad188816c45ced8208980247910468" category="list-text">*系统日志警报*-设置包括系统日志服务器地址和UDP端口。</block>
@@ -8492,12 +8444,8 @@
   <block id="65c8d39e2e73985a77ff0c8a61c30608" category="paragraph">现在支持在基座托盘上不使用NVMe驱动器的EF300和EF600控制器配置。</block>
   <block id="248bd33e5007bccdca76e9d0459df99c" category="paragraph">已为所有平台禁用USB端口</block>
   <block id="3ea3899fea5b85d0cc4b9b3bf6291d51" category="paragraph">现在、所有平台均已禁用USB端口。</block>
-  <block id="e7ad6d421850c5694f6bdc4321ac3507" category="sidebar">借助SANtricity 11.80软件、您可以在数据分析、视频监控以及备份和恢复等繁重工作负载应用程序中、最大限度地提高E系列混合闪存和EF系列全闪存阵列的性能和利用率。</block>
-  <block id="c76b2a182c36f1230239bad4c28112a3" category="sidebar">SANtricity软件文档11.80</block>
   <block id="90e8ac6688c66ac3fc81de93ba27235a" category="sidebar">SANtricity System Manager和Unified Manager</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">开始使用</block>
-  <block id="0b008f21f9758b84909b95140b0a532d" category="sidebar">System Manager界面</block>
-  <block id="29ac086a960081d77daa677c24463af3" category="sidebar">Unified Manager界面</block>
   <block id="e95315401141b931451e32ea694b6d92" category="sidebar">SANtricity 软件产品规格</block>
   <block id="421eeeca306bdf1873654f04f6d8e61e" category="sidebar">E系列文档</block>
   <block id="b00771a05354ff5b2df1b388cfb6c874" category="sidebar">E系列系统文档</block>
@@ -8519,7 +8467,6 @@
   <block id="2bae42f280067110dfd52cc69a468364" category="sidebar">Active IQ （需要登录）</block>
   <block id="54708ac788109e3332a896f8d957e38f" category="sidebar">E 系列 /SANtricity 下载（需要登录）</block>
   <block id="b0e20a5b05a72022c8f53f4a8d3aea80" category="sidebar">您可以通过SANtricity 软件文档安装、设置和维护存储阵列。</block>
-  <block id="319de80f12a723289ba5d8bb3571caa8" category="sidebar">使用System Manager 11.8进行单阵列管理</block>
   <block id="c8a33107c06551c9b2d94030edec5949" category="sidebar">设置阵列</block>
   <block id="d0e1f6c94a3c246f0944869e917dd6b0" category="sidebar">初始设置</block>
   <block id="33ccba682d8aacdfad3cf694806f090e" category="sidebar">管理员密码</block>
@@ -8543,7 +8490,6 @@
   <block id="0a0b92f036cc63a95b9be8f8ab2008e8" category="sidebar">Recovery Guru (恢复专家)</block>
   <block id="3849340aeaa75e39b4c0086c87286698" category="sidebar">事件日志</block>
   <block id="06eae2db1d4831c93a0da137df21298c" category="sidebar">恢复支持文件</block>
-  <block id="3260e793a72a8ad4c6f8b10665ca25ac" category="sidebar">使用Unified Manager 6进行多阵列管理</block>
   <block id="b191593bc602ff910417b3f85bb496ca" category="sidebar">设置</block>
   <block id="ba21515573d28200c3e7eae976812e72" category="sidebar">设置管理员密码</block>
   <block id="80b15187c4cef3c7dc145b12616a0357" category="sidebar">发现阵列</block>
@@ -8559,15 +8505,12 @@
   <block id="6005f32a6b0b2eff40beaf1834123d4d" category="sidebar">导入设置</block>
   <block id="cccfa6d40938251810b757bc66c5e95b" category="sidebar">更改密码设置</block>
   <block id="b5cd1001d92abd67712f605c8e770d14" category="sidebar">更改目录服务器设置</block>
-  <block id="a26b62aaf12a1354ed2f5726f1a44f96" category="sidebar">SANtricity 11.8文档</block>
   <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">新增功能</block>
   <block id="3b878279a04dc47d60932cb294d96259" category="sidebar">概述</block>
   <block id="be4486cc26282ba3c22a297f83977dbe" category="sidebar">支持的浏览器和操作系统</block>
   <block id="483a5da192f46e3cfe8391d3ef234fc4" category="sidebar">常见问题解答</block>
   <block id="3023481996e16c0dd27c1aeeab45a6c4" category="sidebar">如果我看不到所有硬件组件、该怎么办？</block>
   <block id="4f77fb4cfa40635f17d21979b6692c01" category="sidebar">如果我看不到所有主机、该怎么办？</block>
-  <block id="009fd64f93ff18102999ecfeee8b7573" category="sidebar">Unified Manager设置</block>
-  <block id="26ed02718973e705cd69ee6e109400e0" category="sidebar">System Manager</block>
   <block id="93af28c8ab635f0e7d402547ab0c929d" category="sidebar">主接口</block>
   <block id="fc78fae55edd9650c6455e58681d3aae" category="sidebar">查看性能数据</block>
   <block id="76cf11d4db12b1a45f4d62797b620d5e" category="sidebar">管理接口设置</block>
@@ -8733,7 +8676,6 @@
   <block id="045d1e9a94278a8386d71e58e81fd7a1" category="sidebar">管理升级</block>
   <block id="8d94d37b5905d67ccf22b375e3bf5c6e" category="sidebar">升级软件和固件</block>
   <block id="f446e3c0eca28983e35e282214782584" category="sidebar">查看阵列状态</block>
-  <block id="835b7ac0eaf285552b7ec179de33d014" category="sidebar">启动 System Manager</block>
   <block id="8ebeac47d02da19c4d1cd88ab9d7cca8" category="sidebar">更改阵列密码</block>
   <block id="a0a3f20685c328a00474bb00b7d35fd5" category="sidebar">从视图中删除阵列</block>
   <block id="15fc53829e4c837f62e15647e031089c" category="sidebar">设置导入</block>
@@ -8754,4 +8696,74 @@
   <block id="fdaf387b2cf2a5e0708730deae924c52" category="section-title">11.80.1R3中的新增功能</block>
   <block id="a372f5d0e522484d2807c2713feb9e59" category="paragraph">此版本仅包含少量更改、没有任何新功能或限制。有关此版本中更改的详细信息、请参阅自述文件。</block>
   <block id="cb495aee74d8e4c14850fb4a3882a508" category="section-title">11.80.1R2中的新增功能</block>
+  <block id="511bc26995332ccd1bc373f2533ac9e7" category="doc">访问 SANtricity 系统管理器</block>
+  <block id="d5eb7087909dec2e661624440883bfe3" category="paragraph">要访问SANtricity系统管理器用户界面、请在浏览器中指向控制器的IP地址。设置向导可帮助您开始进行系统配置。</block>
+  <block id="df45899b1d870d205c92f531b2f9cbca" category="doc">安装SANtricity统一管理器</block>
+  <block id="c37a83a89674fde8ffeaf12ba00d2af5" category="paragraph">SANtricity统一管理器包含在Web服务代理中、该代理是单独安装在主机系统上的一个API服务器、用于管理NetApp E系列存储系统。</block>
+  <block id="0a9898b156851883b0c35a15776338c8" category="doc">访问SANtricity统一管理器</block>
+  <block id="6def903cf56aa77e14dd50ebb8fe2719" category="paragraph">安装Web服务代理后、您可以访问SANtricity统一管理器、以便在一个基于Web的界面中管理多个存储系统。</block>
+  <block id="ef256c4d218c47a2c04a18d10165ac0f" category="paragraph">SANtricity系统管理器会报告驱动器的各种状态。</block>
+  <block id="00cffad3ca607922a6c706858259b403" category="paragraph">热备件在SANtricity系统管理器的RAID 1、RAID 5或RAID 6卷组中用作备用驱动器。</block>
+  <block id="f1a4437045c85126e53d06d8e40fd021" category="paragraph">存储系统处于非最佳模式是由于系统配置无效状态所致。尽管处于此状态、但完全支持对现有卷进行正常I/O访问；但是、SANtricity系统管理器将禁止某些操作。</block>
+  <block id="4c1548b517bea01f9959a884be8575f3" category="paragraph">主页页面提供了用于存储阵列日常管理的信息板视图。登录到SANtricity系统管理器后、将显示主页页面。</block>
+  <block id="23d5a32d5d5e34af0ae01167c84aee80" category="paragraph">在确定应用程序时、SANtricity系统管理器会自动根据应用程序类型建议可优化存储的卷配置。</block>
+  <block id="533d0451d27fab44f457ddccee791402" category="doc">SANtricity System Manager界面概述</block>
+  <block id="37ab8a55610b93d738f7d12e13b2cbe8" category="paragraph">SANtricity系统管理器是一个基于Web的界面、可用于在一个视图中管理存储阵列。</block>
+  <block id="1d4af631b6959ddfabcf268d07e5d112" category="paragraph">SANtricity系统管理器使用图标和其他几种方法来通知您存储阵列存在问题。</block>
+  <block id="eca296c53d8021e175c9233b22d536a5" category="paragraph">恢复专家是SANtricity系统管理器的一个组件、用于诊断存储阵列问题并建议用于修复问题的恢复过程。</block>
+  <block id="1eccb12b6beaa3afa33d88e6dbe96f3e" category="paragraph">SANtricity系统管理器可以吉字节(GiB)或兆字节(TiB)为单位显示容量值。</block>
+  <block id="a9eafd95e4debe4d6c9e953b2123621f" category="doc">SANtricity系统管理器未检测到任何主机。我该怎么办？</block>
+  <block id="784bf5e8aec03bc0a910429232366bbb" category="paragraph">您可以仅使用键盘在SANtricity系统管理器中导航。</block>
+  <block id="31c67a5a03f932bcfb7ec2e8acde1918" category="paragraph">SANtricity系统管理器支持这些浏览器版本。</block>
+  <block id="06c1a3efc270606698185f701855e68d" category="paragraph">您可以在SANtricity统一管理器界面中配置镜像对、然后在SANtricity系统管理器中管理这些对。</block>
+  <block id="74b085142e307db471b1f86d42eaa7f6" category="paragraph">您可以更改镜像对卷的设置、以调整SANtricity系统管理器在镜像对卷的预留容量接近全满时发送警报通知的百分比。</block>
+  <block id="f16e62f612f383ccc4993fccf8164eb5" category="paragraph">如果您在旧存储阵列上创建了无法由SANtricity System Manager管理的主卷、则可以使用SANtricity System Manager在此阵列上创建二级卷。</block>
+  <block id="e8335355b809680a7a07946df0f22a21" category="paragraph">镜像可在SANtricity统一管理器界面中配置。</block>
+  <block id="3e8940a07dc6e6fcfaeb8f76e0e95d98" category="paragraph">在SANtricity系统管理器中、您可以下载命令行界面(CLI)软件包。</block>
+  <block id="e3c6215a209a5d287059d476946fe408" category="paragraph">加载项是SANtricity系统管理器标准配置中不包含的功能、可能需要密钥才能启用。附加功能可以是单个高级功能、也可以是捆绑的功能包。</block>
+  <block id="97d42caaa63b71f8c24b9a49d4dd3cad" category="doc">我如何知道需要将哪些证书上传到SANtricity系统管理器以进行外部密钥管理？</block>
+  <block id="ed6a026f78a1a9d6f206a0aac76aae36" category="paragraph">您可以在SANtricity 系统管理器中配置超时、以便在指定时间后断开用户的非活动会话。</block>
+  <block id="7b5a3ab486c3b4b2ccfc9a760315a3ea" category="paragraph">您可以将SANtricity系统管理器配置为通过电子邮件、SNMP陷阱和系统日志消息发送存储阵列警报。</block>
+  <block id="04dfac63eb6f5f22800fa898350089ee" category="paragraph">您可以使用SANtricity系统管理器创建证书签名请求(Certificate signing Requests、CSV)、导入证书以及管理现有证书。</block>
+  <block id="2808e7b4862302de005363e8d7a9298b" category="paragraph">您可以为SANtricity系统管理器配置一些常规阵列设置和附加功能。</block>
+  <block id="37292b1d6269336dad0fc27c14cc50e6" category="paragraph">自动负载平衡功能可确保在两个控制器之间动态管理和平衡来自主机的传入I/O流量。默认情况下、此功能处于启用状态、但您可以从SANtricity系统管理器中将其禁用。</block>
+  <block id="d446eaf3c37a2d1b64761e41e0d4c396" category="paragraph">您可以获取CA签名的证书、以便控制器与用于访问SANtricity系统管理器的浏览器之间进行安全通信。</block>
+  <block id="71922c71c5f29b0c629529ba400ef998" category="paragraph">使用SANtricity系统管理器、您可以使用联机证书状态协议(Online Certificate Status Protocol、OCSP)服务器(而不是上传证书撤消列表(Certificate Revocation List、CRL))来检查是否存在已撤销的证书。</block>
+  <block id="d901918c71190564252df1392b4512b5" category="paragraph">下表列出了可用于配置和管理基于InfiniBand会话的iSER的SANtricity系统管理器功能。</block>
+  <block id="97eb7f10d621b518571460a8d1bccf8b" category="paragraph">下表列出了可用于配置和管理基于InfiniBand的NVMe会话的SANtricity系统管理器功能。</block>
+  <block id="09cab99fec7e2be20fb90f16f896325b" category="paragraph">如果您发现SANtricity系统管理器中显示的时间戳与管理客户端(通过浏览器访问SANtricity系统管理器的计算机)中显示的时间戳不一致、则应手动同步存储阵列中的控制器时钟。只有在SANtricity系统管理器中未启用网络时间协议(Network Time Protocol、NTP)时、才需要执行此任务。</block>
+  <block id="a96d9e965e10c639f6190acfe6a05114" category="paragraph">在SANtricity系统管理器中进行某些更改(例如切换管理接口或使用SAML进行身份验证方法)时、可能会限制使用某些外部工具和功能。</block>
+  <block id="e89611f534bae4fdefd815eda302ac53" category="paragraph">如果在尝试登录到SANtricity系统管理器时收到错误、请查看这些可能的原因。</block>
+  <block id="e07e1a01ada9b7dffd6f47c6fec15822" category="paragraph">您可以更改一致性组成员卷的设置、以调整SANtricity系统管理器在成员卷的预留容量接近全满时发送警报通知的百分比值、并更改在预留容量达到其最大定义百分比时要使用的策略。</block>
+  <block id="5565955fb75572cd15d1180cd1e84891" category="paragraph">您可以更改快照组的设置、以更改其名称、自动删除设置、允许的最大快照映像数、SANtricity系统管理器发送预留容量警报通知的百分比或预留容量达到最大定义百分比时要使用的策略。</block>
+  <block id="f387ebe48cc5271f2c7b7a6d62f5e151" category="paragraph">当SANtricity系统管理器检测到存储阵列中的未分配驱动器时、系统会自动启动池创建。您可以使用自动创建池将存储阵列中所有未分配的驱动器轻松配置到一个池中、并将驱动器添加到现有池中。</block>
+  <block id="167c625a6715ae3c7e8f536806a65484" category="paragraph">SANtricity系统管理器会为您可以从池中删除的驱动器数量设置限制。</block>
+  <block id="c37cb57fbf471d09e0a0c473b1af4395" category="paragraph">容量警报指示何时向池添加驱动器。池需要足够的可用容量才能成功执行存储阵列操作。您可以通过将SANtricity系统管理器配置为在池的可用容量达到或超过指定百分比时发送警报来防止这些操作中断。</block>
+  <block id="c3ef549f921f9931ee4e54e5a9176597" category="paragraph">在SANtricity系统管理器中、您可以按照以下步骤创建快照映像和快照卷。</block>
+  <block id="e96cf8b7e66ac097facaf28c82d66aa1" category="paragraph">技术支持可以使用恢复支持文件对问题进行故障排除。SANtricity系统管理器会自动保存这些文件。</block>
+  <block id="fcaba1806566990b101abb2ccb59a73f" category="paragraph">SANtricity系统管理器会自动为AutoSupport派单创建默认计划。如果愿意、您可以指定自己的计划。</block>
+  <block id="d8d7d1838ede45a15d34d278b1c7dc22" category="paragraph">SANtricity系统管理器允许您将AutoSupport派单发送给技术支持、而无需等待计划的派单。</block>
+  <block id="da1743923a3a0458c608ee2a3312d293" category="paragraph">iSCSI会话可以与异步镜像关系中的主机或远程存储阵列进行。下表列出了可用于配置和管理这些iSCSI会话的SANtricity系统管理器功能。</block>
+  <block id="5f7016e066403d9d218a874cedc63541" category="paragraph">您可以为SANtricity统一管理器配置超时、以便用户的非活动会话在指定时间后断开连接。</block>
+  <block id="82a77b13aa8d00eca6e71aa5af7098d6" category="doc">SANtricity Unified Manager界面概述</block>
+  <block id="3ec40952f7ff71ab9d51f1f50e2e10a2" category="paragraph">SANtricity统一管理器是一个基于Web的界面、可用于在一个视图中管理多个存储阵列。</block>
+  <block id="553b07cb69b9906d0f4d1c0b2c97bdae" category="paragraph">管理员可以使用SANtricity 统一管理器中强制实施的RBAC (基于角色的访问控制)功能。这些功能称为"本地用户角色"。</block>
+  <block id="f0254fcd04a8e1df1dc8c778e6189b01" category="paragraph">您可以获取并导入CA签名的证书、以便安全访问托管SANtricity统一管理器的管理系统。</block>
+  <block id="c5f9375676cadbc97263ea339c65e0df" category="paragraph">在SANtricity Unified Manager显示和管理存储资源之前、它必须先发现要在组织网络中管理的存储阵列。您可以发现多个阵列、也可以发现一个阵列。</block>
+  <block id="8205965c706fda540f0df394d1fd7df5" category="paragraph">您可以使用SANtricity 统一管理器将设置从一个存储阵列导入到多个存储阵列。导入设置功能是一个批处理操作、当您需要在网络中配置多个阵列时、可以节省时间。</block>
+  <block id="2b8e903f9231328c5dd4ac194fe0ed99" category="paragraph">您可以使用SANtricity 统一管理器将同一类型的多个存储阵列上的SANtricity OS软件升级到更高版本。</block>
+  <block id="c5cdef1d414ec599aa9b2d1f28c67d4b" category="doc">访问SANtricity System Manager的注意事项</block>
+  <block id="cdaae564ece8b6f3561a5e657337c464" category="paragraph">您可以在SANtricity统一管理器中配置异步或同步镜像、然后使用SANtricity系统管理器管理同步。</block>
+  <block id="69ffe5f70c823700a785fa58e3fbca15" category="paragraph">SANtricity统一管理器提供了SANtricity镜像功能的配置选项、使管理员能够在两个存储阵列之间复制数据以实现数据保护。</block>
+  <block id="bf29ed0b212c99188f3c0d2b5992aeee" category="paragraph">SANtricity统一管理器会显示已发现的每个存储阵列的状态。</block>
+  <block id="99e207225cad4e6c8aa147bb693de2fe" category="paragraph">在使用SANtricity 统一管理器升级多个存储阵列之前、请在规划过程中查看主要注意事项。</block>
+  <block id="007514198d3a6a497de308570963c944" category="sidebar">借助SANtricity软件11.8、您可以在数据分析、视频监控以及备份和恢复等繁重工作负载应用程序中、最大限度地提高E系列混合闪存和EF系列全闪存阵列的性能和利用率。</block>
+  <block id="f3cd0f781c7bb1c5b46ad34971fcc8df" category="sidebar">SANtricity软件11.8.</block>
+  <block id="48003406c3332bb90497a98f2d79b26a" category="sidebar">SANtricity系统管理器界面</block>
+  <block id="b4baa7fdabc903993aebeaaa5980c455" category="sidebar">SANtricity Unified Manager界面</block>
+  <block id="e08c24f750955de094f96b7dbfbe2be6" category="sidebar">使用SANtricity系统管理器11.8.</block>
+  <block id="3b8ba0ad953551275195a6393ffcf13d" category="sidebar">使用SANtricity统一管理器6进行多阵列管理</block>
+  <block id="19a4a9156be1db155dc5ca8647e23900" category="sidebar">SANtricity软件11.8.</block>
+  <block id="3089984c7abf64387bdc035943beae57" category="sidebar">SANtricity系统管理器设置</block>
+  <block id="61ed698df3699989d8d782fe430d2755" category="sidebar">SANtricity Unified Manager设置</block>
 </blocks>
